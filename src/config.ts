@@ -1,4 +1,4 @@
-import source from './giving-team-multiboard-config';
+import source from './cca-publishing-team-multiboard-config';
 
 type AppConfig = {
   readonly boards: string[];
